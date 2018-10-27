@@ -1,0 +1,96 @@
+1$$$$$error: Caused by: java.lang.NoClassDefFoundError: com/starit/gejie/dao/SysNameDao
+2$$$$$java.sql.SQLException: You have an error in your SQL syntax;
+1$$$$$error Unable to connect to any of the specified MySQL hosts.
+1$$$$$error:Servlet.service() for servlet action threw exception java.lang.NullPointerException
+1$$$$$error:Exception in thread main java.lang.ArrayIndexOutOfBoundsException: 2
+1$$$$$error:NoSuchMethodError: com/starit/.
+2$$$$$error:java.lang.NoClassDefFoundError: org/coffeesweet/test01/Test01
+1$$$$$error:java.lang.NoClassDefFoundError: org/coffeesweet/test01/Test01
+1$$$$$error:Java.lang.IllegalStateException
+1$$$$$error:Java.lang.IllegalMonitorStateException
+1$$$$$error:Java.lang.NegativeArraySizeException
+2$$$$$error:java.sql.SQLException: You have an error in your SQL syntax;
+1$$$$$error:Java.lang.TypeNotPresentException 
+1$$$$$error:Java.lang.UnsupprotedOperationException 
+1$$$$$error Java.lang.IndexOutOfBoundsException
+1$$$$$error Java.lang.ClassNotFoundException
+2$$$$$error java.lang.ExceptionInInitializerError 
+1$$$$$error:java.lang.IncompatibleClassChangeError 
+1$$$$$error:java.lang.LinkageError 
+1$$$$$error:java.lang.OutOfMemoryError 
+1$$$$$error java.lang.StackOverflowError
+2$$$$$error: java.lang.UnsupportedClassVersionError
+1$$$$$error java.lang.ClassCastException
+1$$$$$error: java.lang.CloneNotSupportedException
+1$$$$$error: java.lang.EnumConstantNotPresentException 
+1$$$$$error java.lang.IllegalMonitorStateException 
+2$$$$$error java.lang.IllegalStateException 
+1$$$$$error java.lang.IndexOutOfBoundsException 
+1$$$$$error java.lang.NumberFormatException 
+1$$$$$error java.lang.RuntimeException 
+1$$$$$error java.lang.TypeNotPresentException 
+2$$$$$error MetaSpout.java:9: variable i might not have been initialized
+1$$$$$error MyEvaluator.java:1: class Test1 is public, should be declared in a file named Test1.java 
+1$$$$$error Main.java:5: cannot find symbol 
+1$$$$$error NoClassDefFoundError: asa wrong name: ASA 
+1$$$$$error Test1.java:54: 'void' type not allowed here
+2$$$$$error Test5.java:8: missing return statement
+1$$$$$error:Next.java:66: cannot find symbol 
+1$$$$$error symbol  : method createTempFile(java.lang.String,java.lang.String,java.lang.String) 
+1$$$$$error invalid method declaration; return type required
+1$$$$$error array required, but java.lang.String found
+2$$$$$error Exception in thread main java.lang.NumberFormatException: null 20. .
+1$$$$$error non-static method cannot be referenced from a static context
+1$$$$$error Main.java:5: non-static method fun1() cannot be referenced from a static context
+1$$$$$error continue outside of  loop
+1$$$$$error MyAbstract.java:6: missing method body, or declare abstract
+2$$$$$error Main.java:6: Myabstract is abstract; cannot be instantiated
+1$$$$$error MyInterface.java:2: interface methods cannot have body 
+1$$$$$error Myabstract is abstract; cannot be instantiated
+1$$$$$error asa.java:3: modifier static not allowed here
+1$$$$$error possible loss of precision  found: long required:byte  var=varlong
+2$$$$$error  java.lang.NegativeArraySizeException 
+1$$$$$error java.lang.ArithmeticException:  by zero
+1$$$$$error java.lang.ArithmeticException
+1$$$$$error java.lang.ArrayIndexOutOfBoundsException
+1$$$$$error java.lang.ClassNotFoundException
+2$$$$$error java.lang.IllegalArgumentException
+1$$$$$error fatal error C1010: unexpected end of file while looking for precompiled header directive
+1$$$$$error fatal error C1083: Cannot open include file: R…….h: No such file or directory
+1$$$$$error C2011:C……clas type redefinition
+1$$$$$error C2018: unknown character 0xa3
+2$$$$$error C2057: expected constant expression
+1$$$$$error C2065: IDD_MYDIALOG : undeclared identifier IDD_MYDIALOG
+1$$$$$error C2082: redefinition of formal parameter bReset
+1$$$$$error C2143: syntax error: missing : before  
+1$$$$$error C2146: syntax error : missing ';' before identifier dc
+2$$$$$error C2196: case value '69' already used
+1$$$$$error C2509: 'OnTimer' : member function not declared in 'CHelloView'
+1$$$$$error C2555: 'B::f1': overriding virtual function differs from 'A::f1' only by return type or calling convention
+1$$$$$error C2511: 'reset': overloaded member function 'void (int)' not found in 'B'
+1$$$$$error C2660: 'SetTimer' : function does not take 2 parameters
+2$$$$$error warning C4035: 'f……': no return value
+1$$$$$error warning C4553: '= =' : operator has no effect; did you intend '='
+1$$$$$error C4716: 'CMyApp::InitInstance' : must return a value
+1$$$$$error LINK : fatal error LNK1168: cannot open Debug/P1.exe for writing
+1$$$$$error LNK2001: unresolved external symbol public: virtual _ _thiscall C (void)
+2$$$$$error java.lang.IllegalArgumentException: Path index.jsp does not start with
+1$$$$$error org.apache.struts.action.ActionServlet.process(ActionServlet.java:148
+1$$$$$error org.apache.jasper.JasperException: Exception in JSP
+1$$$$$error The server encountered an internal error () that prevented it from fulfilling this request
+1$$$$$error org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:467
+2$$$$$error javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+1$$$$$error javax.servlet.jsp.JspException: Cannot find message resources under key org.apache.struts.action.MESSAGE
+1$$$$$error Stacktrace:  org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:467)
+1$$$$$error javax.servlet.ServletException: Cannot find bean org.apache.struts.taglib.html.BEAN in any scope
+1$$$$$error no data found
+2$$$$$error exception in thread main org.hibernate.MappingException: Unknown entity:.
+1$$$$$error using namespace std;
+1$$$$$error C2065: 'cout' : undeclared identifier
+1$$$$$error main already defined in aaa.obj
+1$$$$$error syntax error : missing ';' before '}'
+2$$$$$error cout : undeclared identifier
+1$$$$$error weblogic.servlet.internal.WebAppServletContext$ServletInvocationAction.run(WebAp 
+1$$$$$error Caused by: java.lang.reflect.InvocationTargetException
+1$$$$$error Caused by: java.lang.NoClassDefFoundError: com/starit/gejie/dao/SysNameDao
+1$$$$$error at com.starit.gejie.Util.Trans.BL_getSysNamesByType(Trans.java:220)
